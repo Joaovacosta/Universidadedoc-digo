@@ -1,4 +1,4 @@
-# Universidade do Código 👨‍🎓🖥
+# Atividade de Front-end: Criação de Site para a Universidade do Código 👨‍🎓🖥
 Atividade de Linguagem de marcação para criar um site sobre a Universidade (fictícia) UC (Universidade do Código), montada em HTML com CSS interno.
 ### Objetivo da atividade 📚
 Compreender, analisar e estudar linguagem de marcação HTML e CSS e criar um site para a Universidade do Código (Universidade fictícia).
