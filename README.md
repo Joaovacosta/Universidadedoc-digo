@@ -9,4 +9,4 @@ Compreender, analisar e estudar linguagem de marcação HTML e CSS e criar um si
 4. Editor de Código: Visual Studio Code (VS code).
 O intuito da atividade é compreendermos como funciona uma criação do zero de uma página web.
 ### Resultado ✅
-O site criado apresenta um layout simples, organizado e funcional, com navegação básica por botões para navegação (sobre, contato e home) e estilização aplicada diretamente no HTML por meio de CSS interno (bem básica).
+O site criado apresenta um layout simples, organizado e funcional, com navegação básica por botões para navegação no site (sobre, contato e home) e estilização aplicada diretamente no HTML por meio de CSS interno (bem básica).
